@@ -1,0 +1,4 @@
+Treinando Git e GitHub. 
+
+* Link para Down load Git: https://git-scm.com/download/win
+* o Git Bash é um terminal extendido para otimizar o uso do Git;
